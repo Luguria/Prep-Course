@@ -1,0 +1,4 @@
+for = funciona para realizar tareas repetitivas sin necesidad de estar compiando la misma linea de codigo, de forma constate. Funciona a modo de bucle, ejecutando la linea de codigo que se le introduzca, siempre y cuando la condición que se le plantee, sea verdadera; de lo contrario, no ejecutará dicha linea de codigo y pasará a la siguiente (en caso de poseer otra).
+operadores :`&&` = se utiliza a forma de 'y'; esto evalua las expresiones y devuelve "true" si ambas lo son, en caso de que alguna no lo sea, devuelve "false".
+            `||` = se utiliza a forma de 'O'; dicho operador evalua ambas expresiones y devuelve "true" si almenos una de ellas lo es. Si ambas son falsas, devuelve "false".
+            `!` = es el operador de negación. Este devuelve el operador booleando opuesto al de la expresión que se le pase.
