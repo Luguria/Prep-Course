@@ -1,0 +1,2 @@
+Array ----> Es una lista de elementos (cualquier elemento que se desee) ordenados empezando del 0. Por lo que cada  elemento es accesible
+      ----> Se define mediante una variable seguido de [brackets]
