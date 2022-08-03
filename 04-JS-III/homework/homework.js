@@ -236,6 +236,7 @@ function continueStatement(numero) {
     return array;
   }
 
+ok
 
 // No modificar nada debajo de esta línea
 // --------------------------------
